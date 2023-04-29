@@ -49,4 +49,8 @@ class Solution {
         
         return mostCommonWord;
     }
+    public static void main(String[] args) {
+        int grade = 'B';
+        System.out.println(grade);
+    }
 }
